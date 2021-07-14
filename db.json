@@ -59,6 +59,16 @@
       "date": "July 20, 2030",
       "time": "07:00",
       "organizer": "Yap Yee Qiang"
+    },
+    {
+      "id": "d6e4c9f2-e323-4e3d-aa3f-f993f67c69a2",
+      "category": "frontend development",
+      "title": "Learn Redux",
+      "description": "Implementing Redux into your React Application",
+      "location": "Boston",
+      "date": "February 20, 2024",
+      "time": "17:00",
+      "organizer": "Yap Yee Qiang"
     }
   ]
 }
