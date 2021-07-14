@@ -1,34 +1,54 @@
 {
-	"events": [
-		{
-			"id": 1,
-			"category": "frontend development",
-			"title": "Vue.js Fundamentals",
-			"description": "Learn how to create a dynamic Web Application using Vue.js.",
-			"location": "Kuala Lumpur",
-			"date": "January 28, 2022",
-			"time": "12:00",
-			"organizer": "Yap Yee Qiang"
-		},
-		{
-			"id": 2,
-			"category": "backend development",
-			"title": "RESTful API",
-			"description": "Learn how to work with API and integrate it with the frontend.",
-			"location": "Selangor",
-			"date": "March 14, 2022",
-			"time": "10:00",
-			"organizer": "Jesmon"
-		},
-		{
-			"id": 3,
-			"category": "data science",
-			"title": "Pandas, Data Analysis",
-			"description": "Learn how to use Pandas to analyze the IMDb Movie Dataset.",
-			"location": "Putrajaya",
-			"date": "July 22, 2022",
-			"time": "11:00",
-			"organizer": "Yap Yee Qiang"
-		}
-	]
+  "events": [
+    {
+      "id": 1,
+      "category": "frontend development",
+      "title": "Vue.js Fundamentals",
+      "description": "Learn how to create a dynamic Web Application using Vue.js.",
+      "location": "Kuala Lumpur",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Yap Yee Qiang"
+    },
+    {
+      "id": 2,
+      "category": "backend development",
+      "title": "RESTful API",
+      "description": "Learn how to work with API and integrate it with the frontend.",
+      "location": "Selangor",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Jesmon"
+    },
+    {
+      "id": 3,
+      "category": "data science",
+      "title": "Pandas, Data Analysis",
+      "description": "Learn how to use Pandas to analyze the IMDb Movie Dataset.",
+      "location": "Putrajaya",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Yap Yee Qiang"
+    },
+    {
+      "id": "b4ae1f55-8246-4690-947a-06857aef2e0e",
+      "category": "backend development",
+      "title": "Python Django",
+      "description": "Learn how to create a Django Application",
+      "location": "Los Angeles",
+      "date": "July 14, 2025",
+      "time": "12:00",
+      "organizer": "Yap Yee Qiang"
+    },
+    {
+      "id": "dfa038a0-3582-400f-a1c2-fed7fb44a2af",
+      "category": "backend development",
+      "title": "Python Flask",
+      "description": "Learn how to build a simple Flask Application",
+      "location": "Miami",
+      "date": "December 12, 2029",
+      "time": "19:00",
+      "organizer": "Yap Yee Qiang"
+    }
+  ]
 }
