@@ -49,6 +49,16 @@
       "date": "December 12, 2029",
       "time": "19:00",
       "organizer": "Yap Yee Qiang"
+    },
+    {
+      "id": "e3741d3c-0248-4af3-8f9d-6a3f13235246",
+      "category": "frontend development",
+      "title": "Tailwind CSS",
+      "description": "Learn how to integrate Tailwind CSS into your project",
+      "location": "Bangkok",
+      "date": "July 20, 2030",
+      "time": "07:00",
+      "organizer": "Yap Yee Qiang"
     }
   ]
 }
